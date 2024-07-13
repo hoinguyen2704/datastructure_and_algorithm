@@ -1,0 +1,56 @@
+12
+2 4 3 12 45 23 456 6 4 122 76 34
+
+4
+sv001
+Tran Thanh Thao
+5
+sv002
+Tran Vu Hanh Linh
+9
+sv003
+Nguyen Tuan Anh
+7
+sv004
+Dao Thi Hang
+4
+y
+sp001
+bimbim
+oishi
+2023
+y
+sp002
+nuoc ep
+coca
+2023
+y
+sp003
+nuoc tang luc
+redbull
+2021
+
+1
+2
+3
+4
+nv001
+nguyen tien
+hoi
+nam
+10.0
+nv002
+tran vu Hanh
+Linh
+nu
+4.5
+nv003
+ha Thao
+Linh
+nu
+6.7
+nv004
+tran kieu
+Anh
+nu
+7.8

@@ -1,0 +1,32 @@
+1
+2
+sv001
+Nguyen Tien Hoi
+8.9
+sv002
+Tran Thao Linh
+8.2
+sv003
+Tran Vu Hanh Linh
+8.9
+sv004
+Hoang Ngoc Anh
+8.0
+sv005
+Tran Kim Anh
+1.0
+sv006
+Ha Thanh Thao
+6.9
+sv007
+Tran Thi Ngoc Anh
+5.6
+sv008
+Nguyen Thi Tu Anh
+10.0
+sv009
+Nguyen Thi Van Anh
+4.6
+sv010
+Nguyen Tuan Anh
+5.7
